@@ -19,4 +19,4 @@ Optical smoke alarm uses MOC 7811 which is an *optocoupler*.The sensor designed 
 
 ## Final Implementation Of The Circuit
 
-![Final Circuit on Arduino Board](Schematics/Sch3.png)
+![Final Circuit on Arduino Board](Schematic/Sch3.png)
