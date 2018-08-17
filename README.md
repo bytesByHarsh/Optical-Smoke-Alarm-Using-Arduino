@@ -1,1 +1,1 @@
-# Optical-Smoke-Alarm-Using-Arduino
+# Optical Smoke Alarm Using Arduino
