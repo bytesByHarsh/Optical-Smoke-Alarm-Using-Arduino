@@ -27,4 +27,6 @@ Optical smoke alarm uses MOC 7811 which is an *optocoupler*.The sensor designed 
 
 ![Zone 1](Schematic/zone1.JPG)
 
-### 
+### For multiple zones:
+
+![Multiple Zone](Schematic/z134.JPG)
